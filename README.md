@@ -197,8 +197,6 @@
                     </a>
                 </div>
             </div>
-
-
             <!-- Dhaddacha yakkaa Dhaddacha 1ffaa -->
             <div class="bg-neutral-900/90 border border-neutral-800 rounded-2xl p-5 flex flex-col justify-between hover:border-blue-500 transition-all duration-300 shadow-xl group">
                 <div>
